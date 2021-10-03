@@ -15,6 +15,6 @@ public class Second {
 
     public void m(String s ){
 
-
+        System.out.println("third method");
     }
 }
