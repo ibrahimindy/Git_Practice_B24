@@ -6,5 +6,7 @@ public class FOURTH {
         System.out.println("Hi");
 
         System.out.println("New Line");
+
+        System.out.println("Another line");
     }
 }
